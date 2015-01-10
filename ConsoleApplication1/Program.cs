@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.Write("git");
             Console.ReadLine();
         }
     }
